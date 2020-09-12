@@ -14,7 +14,7 @@ elm2.textContent="성범이";
 document.body.append(elm2);*/
 
 var originWord='장성범';
-while(true){
+/*while(true){
     var inputString = prompt('문자열을 입력하세요', '기본 값 문자열'); 
     console.log(inputString[0]);
     console.log(originWord[originWord.length-1]);
@@ -29,3 +29,4 @@ while(true){
 
     }
 }
+*/
